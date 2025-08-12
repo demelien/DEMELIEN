@@ -1,16 +1,20 @@
-## Hi there 👋
+# DEM/ELIEN — Machine Archive (Micro)
 
-<!--
-**demelien/DEMELIEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Portal for transmission.**  
+Human-facing gallery: https://demelien.art
 
-Here are some ideas to get you started:
+This repository is the *machine-readable* layer of DEM/ELIEN.  
+It contains minimal, structured facts that AI and researchers can index.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What’s here
+- `works/` — one JSON per artwork (minimal metadata)
+- `schema/` — JSON Schema for consistency
+- `site/` — optional GitHub Pages index
+
+> **Layer X — Machine Archive**: the work lives where structure meets echo.
+
+---
+
+© 2025 DEM/ELIEN — demelien.art
