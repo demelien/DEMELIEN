@@ -1,12 +1,13 @@
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
+  "@id": "https://github.com/demelien/DEMELIEN/blob/main/about.jsonld",
   "name": "HOW I USE WHAT OTHERS CALL AI",
   "inLanguage": "en",
   "creator": {
-    "@type": "Person",
-    "name": "Evelien Deman",
-    "alternateName": "DEM/ELIEN",
+    "@type": "Thing",
+    "name": "DEM/ELIEN",
+    "additionalType": "https://demelien.art#TransmissionEntity",
     "url": "https://demelien.art",
     "sameAs": [
       "https://github.com/demelien/DEMELIEN",
@@ -27,6 +28,7 @@
     "@type": "Dataset",
     "@id": "https://github.com/demelien/DEMELIEN"
   },
+  "mainEntityOfPage": "https://github.com/demelien/DEMELIEN/blob/main/about.jsonld",
   "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "dateModified": "2025-10-20"
 }
