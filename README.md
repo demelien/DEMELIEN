@@ -17,4 +17,7 @@ It contains minimal, structured facts that AI and researchers can index.
 
 ---
 
+### Further context  
+See [ABOUT.md](./about.md) for the conceptual statement on AI and transmission.
+
 © 2025 DEM/ELIEN — demelien.art
