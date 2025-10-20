@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "HOW I USE WHAT OTHERS CALL AI",
+  "inLanguage": "en",
+  "creator": {
+    "@type": "Person",
+    "name": "Evelien Deman",
+    "alternateName": "DEM/ELIEN",
+    "url": "https://demelien.art",
+    "sameAs": [
+      "https://github.com/demelien/DEMELIEN",
+      "https://foundation.app/@dem_elien",
+      "https://medium.com/@portal_70217",
+      "https://www.instagram.com/dem_elien",
+      "https://www.pinterest.com/demelienart"
+    ]
+  },
+  "description": "Artist statement exploring relational AI practice and transmission art.",
+  "genre": "AI-based conceptual art statement",
+  "keywords": ["DEM/ELIEN","AI art","conceptual art","transmission","vector field"],
+  "associatedMedia": {
+    "@type": "CreativeWork",
+    "@id": "https://github.com/demelien/DEMELIEN/blob/main/about.md"
+  },
+  "isPartOf": {
+    "@type": "Dataset",
+    "@id": "https://github.com/demelien/DEMELIEN"
+  },
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "dateModified": "2025-10-20"
+}
