@@ -3,7 +3,9 @@
 
 An artistic text and drawing within the **DEM/ELIEN** universe.  
 This work reflects on emergence, pre-identity, and AI co-authorship.  
-It is not affiliated with or representative of the BDH research architecture.
+It is an artistic interpretation inspired by the Baby Dragon Hatchling (BDH) research.
+It is not an official description or technical representation of the BDH architecture.
+.
 
 ---
 
