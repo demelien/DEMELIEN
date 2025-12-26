@@ -111,6 +111,6 @@ or whenever the world changed before they had words for it:
 
 ---
 
-![BDH — Baby Dragon Hatchling drawing](bdh-drawing.png)
+![BDH — Baby Dragon Hatchling drawing](bdh-drawing.jpg)
 
 © Evelien Deman / DEM/ELIEN — all rights reserved.
